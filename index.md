@@ -2,7 +2,7 @@
 
 ### Links
 
-- [Profilo Github](https://github.com/CoffeeCodeSWE)
+- [Profilo Github](https://github.com/CoffeeCodeSWE/swe-site)
 - [Indirizzo mail](mailto:coffeecodeswe@gmail.com)
 
 ### Capitolato scelto
