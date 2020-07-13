@@ -37,6 +37,9 @@ C4 - Predire in Grafana
 - [Presentazioni](https://drive.google.com/drive/folders/1TPet3KwFhcZ3AIuNYPeLFPSxbx9hIlRs?usp=sharing)
 - **Status**: [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RQ/CoffeeCode.pdf)
 
+### Revisione di Accettazione
+Work in progress
+
 ### Ultimo aggiornamento del Sito
 
 2020-07-13 - 11.30
