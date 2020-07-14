@@ -16,7 +16,7 @@ C4 - Predire in Grafana
 - [x] Revisione dei Requisiti: [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RR/CoffeeCode.pdf)
 - [x] Revisione di Progettazione: [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RP/CoffeeCode.pdf)
 - [x] Revisione di Qualifica: [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RQ/CoffeeCode.pdf)
-- [ ] Revisione di Accettazione: work in progress
+- [ ] Revisione di Accettazione: pending
 
 
 ### Revisione dei Requisiti
@@ -38,8 +38,12 @@ C4 - Predire in Grafana
 - **Status**: [approvata](https://www.math.unipd.it/~tullio/IS-1/2019/Progetto/RQ/CoffeeCode.pdf)
 
 ### Revisione di Accettazione
-Work in progress
+
+- [Cartella pubblica di Google Drive](https://drive.google.com/drive/folders/1TtvOq_HAyzwm9sNtB1VLMktZ8zkkoviY?usp=sharing)
+- [Presentazioni](https://drive.google.com/drive/folders/1TPet3KwFhcZ3AIuNYPeLFPSxbx9hIlRs?usp=sharing)
+- **Status**: pending
+
 
 ### Ultimo aggiornamento del Sito
 
-2020-07-13 - 11.30
+2020-07-17 - 15.00
