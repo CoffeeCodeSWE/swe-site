@@ -20,4 +20,6 @@
 
 ### Revisione di Accettazione
 
-Work in progress
+- [Cartella pubblica di Google Drive](https://drive.google.com/drive/folders/1TtvOq_HAyzwm9sNtB1VLMktZ8zkkoviY?usp=sharing)
+- [Presentazioni](https://drive.google.com/drive/folders/1TPet3KwFhcZ3AIuNYPeLFPSxbx9hIlRs?usp=sharing)
+- **Status**: pending
